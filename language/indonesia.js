@@ -83,7 +83,7 @@ exports.notNum = (q) => {
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname} 😖*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu:*
 
 ╭─❒ 「 Bot Info 」 ❒
 ├ ${prefix}owner
@@ -191,42 +191,23 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}dance
 ╰❒ ${prefix}cringe
 
-
-╭─❒ 「 TqTo 」 ❒
-├ My God
-├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
-╰❒ And All Support
-
     `
 }
 
 exports.rules = (prefix) => {
-    return `_*Syarat & Ketentuan BADBOT-MD*_
+    return `_*Syarat & Ketentuan*_
 
-• The official BADBOT number is only available at *https://msha.ke/badbot/*
-• BADBOT *only saves your number* in the database as user number
-• BADBOT *never asks for your personal information* such as home address,
-• No spamming of bots
-• No calling bots
-• Please use the bot feature wisely
-• BADBOT does not save any photos, videos or media you send
-• BADBOT *is not responsible for any features you use*
-• If you find bugs, errors, or feature requests, please contact the developer
-• BADBOT *rights to block* or ban users with or without reason
+• BOT *hanya menyimpan nomor Anda* di database sebagai nomor pengguna
+• BOT *tidak pernah menanyakan informasi pribadi Anda* seperti alamat rumah,
+• Tidak ada spamming bot
+• Tidak ada bot panggilan
+• Silakan gunakan bot
 
 Owner BADBOT:
-wa.me/6285695451209
+wa.me/6289668014332
 
 
-✗✗✗ Rion
+Tata
 `
 }
 exports.source = () =>{
@@ -246,14 +227,14 @@ exports.tos = (ownernomer) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 ( Qris ada di profil owner )
 
-Berapapun donasi kalian akan sangat berarti 👍
+
+_Tidak Tersedia_
 
 Arigatou!
 
 Contact person Owner:
-wa.me/6285695451209
+wa.me/6289668014332
 
     `
 }
